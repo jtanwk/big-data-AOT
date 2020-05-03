@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+    <head>
+        <title>Result</title>
+    </head>
+    <body>
+        <div style="margin-left:auto;margin-right:auto;
+            display:inline-block;
+            border:3px solid #000000;
+            background:white">
+        &nbsp; Today's Weather &nbsp;</div>
+        <h3>Right now,</h3>
+        <p>It is {{latest_temp}}C with {{latest_hum}}% humididity right now.</p>
+        <p>Current temperature - historical average for this hour = {{temp_diff}}C</p>
+        <p>Current humidity - historical average for this hour = {{hum_diff}}% pts</p>
+        <h3>At this hour,</h3>
+        <p>It is usually {{mean_temp_this_hour}}C with {{mean_humid_this_hour}}% humididity.</p>
+        <h3>Today,</h3>
+        <p>It is usually {{mean_temp_today}}C with {{mean_humid_today}}% humididity.</p>
+    </body>
+</html>
