@@ -64,8 +64,8 @@ Some (again barebones) screenshots of the interface below:
 
 1. Initial interface before selection
 
-![Initial interface](https://github.com/jtanwk/big-data-AOT/blob/master/img/Screen%20Shot%202019-12-11%20at%2010.46.04%20PM.png | width=500)
+![Initial interface](https://github.com/jtanwk/big-data-AOT/blob/master/img/Screen%20Shot%202019-12-11%20at%2010.46.04%20PM.png)
 
 2. After selecting a node
 
-![After selection](https://github.com/jtanwk/big-data-AOT/blob/master/img/Screen%20Shot%202019-12-11%20at%2010.46.14%20PM.png | width = 500)
+![After selection](https://github.com/jtanwk/big-data-AOT/blob/master/img/Screen%20Shot%202019-12-11%20at%2010.46.14%20PM.png)
