@@ -34,6 +34,10 @@ Quick summary of what's what in this repo:
 
 ## Technical Implementation
 
+![](diagram.png)
+
+Above is an illustration of the dataflow, from new data sources through the various layers of the lambda architcture to the user iterface.
+
 ### Batch Layer
 
 The batch layer holds the master dataset in a Hadoop DFS (HDFS) hosted on a class-provided Google Cloud Platform server. Files are stored in ORC format. The master dataset is created once from bulk historical data `01-batch` contains bash and Hive scripts for creating the master dataset.
