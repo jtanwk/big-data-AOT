@@ -34,7 +34,7 @@ Quick summary of what's what in this repo:
 
 ## Technical Implementation
 
-![](diagram.png)
+![](img/diagram.png)
 
 Above is an illustration of the dataflow, from new data sources through the various layers of the lambda architcture to the user iterface.
 
@@ -68,8 +68,8 @@ Some (again barebones) screenshots of the interface below:
 
 1. Initial interface before selection
 
-![Initial interface](https://github.com/jtanwk/big-data-AOT/blob/master/img/Screen%20Shot%202019-12-11%20at%2010.46.04%20PM.png)
+![Initial interface](img/interface1.png)
 
 2. After selecting a node
 
-![After selection](https://github.com/jtanwk/big-data-AOT/blob/master/img/Screen%20Shot%202019-12-11%20at%2010.46.14%20PM.png)
+![After selection](img/interface2.png)
